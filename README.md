@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Atyaf<br>🌱 I’m currently learning NodeJs <br>💬 Ask me about Flutter , NodeJs , Python
+🌱 I’m currently learning NodeJs <br>💬 Ask me about Flutter , NodeJs , Python
 
 # Recent Projects
 
