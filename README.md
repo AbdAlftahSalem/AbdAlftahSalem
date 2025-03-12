@@ -1,29 +1,34 @@
-# 💫 About Me:
-🌱 I’m currently learning NodeJs <br>💬 Ask me about Flutter , NodeJs , Python
+<h1 align="center">Hi 👋, I'm Abd Alftah Salem</h1>
+<h3 align="center">FullStasck mobile developer ( Flutter / NodeJS )</h3>
+
 
 # Recent Projects
 
 Here is a list of my recent projects:
 
 ## Thunder CLI
-**Description**: Thunder CLI is a Dart command-line interface (CLI) tool designed to enhance project folder and file management.<br>
+**Description**: A Flutter CLI tool scaffolded with GetX and MVC architecture to streamline app development.<br>
 **Repository**: [Thunder CLI GitHub](https://github.com/AbdAlftahSalem/Thunder-CLI)
 
+## Thunder Encryption
+**Description**: A Dart package to build API collections and Routes files directly from code with detailed annotations.<br>
+**Repository**: [Thunder CLI GitHub](https://github.com/AbdAlftahSalem/Thunder-Encryption)
+
+## Thunder API
+**Description**: A Dart-based tool for Node.js that automates API documentation generation. <br>
+**Repository**: [Thunder API GitHub](https://github.com/AbdAlftahSalem/Build-API-Collection)
+
 ## Dart TradingView
-**Description**: Dart TradingView is an unofficial TradingView technical analysis API wrapper for Dart.<br>
+**Description**: A Dart wrapper for TradingView’s technical analysis API, simplifying market data integration.<br>
 **Repository**: [Dart TradingView GitHub](https://github.com/AbdAlftahSalem/dart-tradingview-ta)
 
-## phone_util
-**Description**: The phone_util project helps you easily build a phone input field. You can change the country, customize the country box style as desired, and customize the phone input field. Additionally, you can add empty space between the country and phone fields.<br>
-**Repository**: [phone_util GitHub](https://github.com/AbdAlftahSalem/phone_util)
+## Crypto-Strategy-And-Back-Test:
+**Description**: An open-source toolkit for building and backtesting crypto trading strategies using historical data.<br>
+**Repository**: [Crypto-Strategy-And-Back-Test GitHub](https://github.com/AbdAlftahSalem/Crypto-Stratgy-And-Back-Test)
 
 ## Random Library
 **Description**: The Random Library is a simple library that allows you to generate random strings, random strings with numbers, random strings between two letters, random strings within the specified minimum and maximum lengths, random countries, random Arabian countries, and random Khaliji countries.<br>
 **Repository**: [Random Library GitHub](https://github.com/AbdAlftahSalem/Random-library)
-
-## Store NodeJS API
-**Description**: The Store NodeJS API is a backend store implemented in Node.js. It includes features such as a shopping cart, favorites, addresses, categories, subcategories, coupons, orders, and reviews.<br>
-**Repository**: [Store NodeJS API GitHub](https://github.com/AbdAlftahSalem/Store-node-js)
 
 Feel free to explore these projects on GitHub for more details and to contribute if you find them interesting.
 
