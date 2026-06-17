@@ -6,6 +6,10 @@
 
 Here is a list of my recent projects:
 
+## Cache Nexus
+**Description**: Smart Cache is not just a caching library. It is a full data orchestration layer between UI, API, and local storage. It handles caching, offline fallback, request deduplication, security, reactive streams, and built-in developer debugging tools -- so you don't have to.
+**Repository**: [cache-nexus](https://github.com/AbdAlftahSalem/cache-nexus)
+
 ## Thunder CLI
 **Description**: A Flutter CLI tool scaffolded with GetX and MVC architecture to streamline app development.<br>
 **Repository**: [Thunder CLI GitHub](https://github.com/AbdAlftahSalem/Thunder-CLI)
