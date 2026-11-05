@@ -17,7 +17,7 @@
 Run your Flutter app in a **real iOS Simulator from Windows or Linux**, no Mac needed. One command builds it on a GitHub macOS runner and streams the Simulator to your browser over WebRTC, with live tap, swipe and keyboard input.
 `Node.js` `WebRTC` `FFmpeg` `GitHub Actions`
 
-### 🗄️ [Store Shots]([https://github.com/AbdAlftahSalem/cache-nexus](https://github.com/AbdAlftahSalem/store_shots)) ·
+### 📱 [Store Shots](https://github.com/AbdAlftahSalem/store_shots)
 Store-ready App Store & Google Play screenshots from your Flutter widgets: every device × every locale, frames, captions, RTL, fake data. No emulator.
 `Flutter` `Dart`
 
