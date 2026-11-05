@@ -9,7 +9,7 @@
 ## 📊 In numbers
 
 - 📱 **+25 apps** I built or led are live on Google Play / App Store
-- 💬 An ERP-integrated **WhatsApp API** I engineered: **300+ active business users**, **250+ concurrent sessions**, **10M+ messages** delivered
+- 💬 An ERP-integrated **WhatsApp API** I engineered: **320+ concurrent sessions**, **250+ active business users**, **10M+ messages** delivered
 
 ## ⭐ Featured projects
 
