@@ -8,7 +8,7 @@
 
 ## 📊 In numbers
 
-- 📱 **12 apps** I built or led are live on Google Play / App Store
+- 📱 **+25 apps** I built or led are live on Google Play / App Store
 - 💬 An ERP-integrated **WhatsApp API** I engineered: **300+ active business users**, **250+ concurrent sessions**, **10M+ messages** delivered
 
 ## ⭐ Featured projects
@@ -16,6 +16,10 @@
 ### 📱 [flutter-remote](https://github.com/AbdAlftahSalem/flutter_remote) · [npm](https://www.npmjs.com/package/flutter-remote)
 Run your Flutter app in a **real iOS Simulator from Windows or Linux**, no Mac needed. One command builds it on a GitHub macOS runner and streams the Simulator to your browser over WebRTC, with live tap, swipe and keyboard input.
 `Node.js` `WebRTC` `FFmpeg` `GitHub Actions`
+
+### 🗄️ [Store Shots]([https://github.com/AbdAlftahSalem/cache-nexus](https://github.com/AbdAlftahSalem/store_shots)) ·
+Store-ready App Store & Google Play screenshots from your Flutter widgets: every device × every locale, frames, captions, RTL, fake data. No emulator.
+`Flutter` `Dart`
 
 ### 🎬 [Trteel](https://github.com/AbdAlftahSalem/trteel) · [live demo](https://trteel.vercel.app)
 A full web studio for making Quran recitation videos: ayahs synced to the audio, translations, animated effects and one-click export.
